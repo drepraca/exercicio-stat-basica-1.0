@@ -1,9 +1,6 @@
 
-mean(1:5)
+# experimento
 
-8*8
+mean(c(1, 5, 10))
 
-9 + 9
-
-mean(c(10, 20, 30))
-
+sum(c(1, 3, 4))
